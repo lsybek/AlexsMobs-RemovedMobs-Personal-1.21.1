@@ -22,7 +22,7 @@
       "conditions": {
         "item": {
           "items": [
-            "alexsmobs:mosquito_larva"
+            "minecraft:magma_cream"
           ]
         },
         "entity": {

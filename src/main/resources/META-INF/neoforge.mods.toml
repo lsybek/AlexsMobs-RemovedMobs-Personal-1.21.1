@@ -10,7 +10,8 @@ displayName="Alex's Mobs"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/alexs-mobs"
 logoFile="alexs_mobs.png"
 authors="Alexthe668, Carro1001, Paint_Ninja, Raguto"
-description='''New, original, engaging, and aesthetic mobs for Minecraft.'''
+description='''New, original, engaging, and aesthetic mobs for Minecraft.
+Source code: https://github.com/lsybek/AlexsMobs-RemovedMobs-Personal-1.21.1'''
 
 [[dependencies.alexsmobs]]
     modId="citadel"

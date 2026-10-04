@@ -13,3 +13,5 @@ Oko może zostać użyte wraz z Żuchwami i odrobiną Netherytu do stworzenia ma
 <NEWLINE>
 <NEWLINE>
 W odróżnieniu od innych kilofów, Rzeźbiarz Wymiarów nie służy do przebijania się przez bloki, ale raczej przez samą rzeczywistość. Używając tego narzędzia w dowolnym miejscu, można wyrwać portal z powrotem do swojego środowiska. Po drugiej stronie zostanie również otwarty tymczasowy portal powrotny, tylko na minutę. Należy uważać, aby nie nadużywać tego narzędzia, ponieważ ma ono tylko 20 użyć.
+<NEWLINE>
+Bossa można wywabić z pustki, rzucając oko Endera w pustkę Endu.

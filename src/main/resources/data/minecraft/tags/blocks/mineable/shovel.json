@@ -1,8 +1,4 @@
 {
   "replace": false,
-  "values": [
-    "alexsmobs:leafcutter_ant_chamber",
-    "alexsmobs:leafcutter_anthill",
-    "alexsmobs:banana_slug_slime_block"
-  ]
+  "values": []
 }

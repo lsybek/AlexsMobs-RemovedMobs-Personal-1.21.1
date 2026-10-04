@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "alexsmobs:maggot",
-    "alexsmobs:mosquito_larva",
-    "alexsmobs:leafcutter_ant_pupa"
+    "minecraft:rotten_flesh",
+    "minecraft:magma_cream",
+    "minecraft:honeycomb"
   ]
 }

@@ -11,4 +11,4 @@ Evcilleştirilen Çamur Zıpzıpı durmaya, takip etmeye veya dolaşmaya sevk ed
 Sahibi tehdit edildiğinde, bir Çamur Zıpzıpı ağzından rakibine yavaşlatan ve bir miktar hasar veren bir çamur topu tükürecektir.
 Çamur Zıpzıpları ayrıca savaşta bombardıman yapabilir.
 <NEWLINE>
-Herhangi bir böcek larvası veya Istakoz Kuyruğu ile çiftleştirilebilirler.
+Herhangi bir çürük et, magma kremi veya petek veya Istakoz Kuyruğu ile çiftleştirilebilirler.

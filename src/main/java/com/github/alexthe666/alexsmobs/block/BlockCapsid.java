@@ -138,7 +138,7 @@ public class BlockCapsid extends BaseEntityBlock {
         if (!(player instanceof ServerPlayer serverPlayer)) {
             return;
         }
-        if (!inserted.is(AMItemRegistry.MOSQUITO_LARVA.get())) {
+        if (!inserted.is(net.minecraft.world.item.Items.ENDER_PEARL)) {
             return;
         }
         ResourceLocation advancementId = ResourceLocation.fromNamespaceAndPath("alexsmobs", "alexsmobs/capsid");

@@ -6,7 +6,7 @@ Diğer kurbağaların aksine, zıplayamaz veya iyi yüzemezler ve iribaş yavrul
 Sıklıkla kendilerini kuma gömmeye ve saklamaya çalışırken görülebilirler.
 Tehdit edildiklerinde, Yağmur Kurbağaları şişer ve yüksek bir ciyaklama sesi çıkarır.
 <NEWLINE>
-Yağmur Kurbağaları çiftleşmeleri için kurtçuklarla beslenebilir.
+Yağmur Kurbağaları çiftleşmeleri için çürük et, magma kremi veya petek ile beslenebilir.
 Bulabildikleri tüm küçük böcekleri yiyebilirler.
 Yuva yapan bir kurbağanın üzerinde kürek kullanılırsa, kurbağa rahatsız olur ve kaybolmaz.
 <NEWLINE>

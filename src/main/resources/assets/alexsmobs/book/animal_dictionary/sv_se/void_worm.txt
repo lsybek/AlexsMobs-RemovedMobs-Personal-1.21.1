@@ -13,3 +13,5 @@ När den dödas, släpper masken både ett öga och två av dess käkar. Käkarn
 <NEWLINE>
 <NEWLINE>
 Till skillnad från andra hackor används inte dimensionell gravör för att bryta igenom block, utan snarare genom själva verkligheten. Genom att använda verktyget var som helst, kan man riva upp en portal tillbaka till sitt återuppståndelse. På andra sidan, öppnas också en tillfällig returportal, i bara en minut. Man bör se till att inte överanvända detta verktyg, eftersom det bara har 20 användningsområden.
+<NEWLINE>
+Denna boss kan lockas från tomheten genom att kasta ett Enderöga i Endens tomhet.

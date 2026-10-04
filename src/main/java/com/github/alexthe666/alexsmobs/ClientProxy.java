@@ -122,13 +122,10 @@ public class ClientProxy extends CommonProxy {
         EntityRenderers.register(AMEntityRegistry.BONE_SERPENT_PART.get(), RenderBoneSerpentPart::new);
         EntityRenderers.register(AMEntityRegistry.GAZELLE.get(), RenderGazelle::new);
         EntityRenderers.register(AMEntityRegistry.CROCODILE.get(), RenderCrocodile::new);
-        EntityRenderers.register(AMEntityRegistry.FLY.get(), RenderFly::new);
         EntityRenderers.register(AMEntityRegistry.HUMMINGBIRD.get(), RenderHummingbird::new);
         EntityRenderers.register(AMEntityRegistry.ORCA.get(), RenderOrca::new);
         EntityRenderers.register(AMEntityRegistry.SUNBIRD.get(), RenderSunbird::new);
         EntityRenderers.register(AMEntityRegistry.GORILLA.get(), RenderGorilla::new);
-        EntityRenderers.register(AMEntityRegistry.CRIMSON_MOSQUITO.get(), RenderCrimsonMosquito::new);
-        EntityRenderers.register(AMEntityRegistry.MOSQUITO_SPIT.get(), RenderMosquitoSpit::new);
         EntityRenderers.register(AMEntityRegistry.RATTLESNAKE.get(), RenderRattlesnake::new);
         EntityRenderers.register(AMEntityRegistry.ENDERGRADE.get(), RenderEndergrade::new);
         EntityRenderers.register(AMEntityRegistry.HAMMERHEAD_SHARK.get(), RenderHammerheadShark::new);
@@ -137,19 +134,12 @@ public class ClientProxy extends CommonProxy {
         EntityRenderers.register(AMEntityRegistry.KOMODO_DRAGON.get(), RenderKomodoDragon::new);
         EntityRenderers.register(AMEntityRegistry.CAPUCHIN_MONKEY.get(), RenderCapuchinMonkey::new);
         EntityRenderers.register(AMEntityRegistry.TOSSED_ITEM.get(), RenderTossedItem::new);
-        EntityRenderers.register(AMEntityRegistry.CENTIPEDE_HEAD.get(), RenderCentipedeHead::new);
-        EntityRenderers.register(AMEntityRegistry.CENTIPEDE_BODY.get(), RenderCentipedeBody::new);
-        EntityRenderers.register(AMEntityRegistry.CENTIPEDE_TAIL.get(), RenderCentipedeTail::new);
         EntityRenderers.register(AMEntityRegistry.WARPED_TOAD.get(), RenderWarpedToad::new);
         EntityRenderers.register(AMEntityRegistry.MOOSE.get(), RenderMoose::new);
         EntityRenderers.register(AMEntityRegistry.MIMICUBE.get(), RenderMimicube::new);
         EntityRenderers.register(AMEntityRegistry.RACCOON.get(), RenderRaccoon::new);
         EntityRenderers.register(AMEntityRegistry.BLOBFISH.get(), RenderBlobfish::new);
         EntityRenderers.register(AMEntityRegistry.SEAL.get(), RenderSeal::new);
-        EntityRenderers.register(AMEntityRegistry.COCKROACH.get(), RenderCockroach::new);
-        EntityRenderers.register(AMEntityRegistry.COCKROACH_EGG.get(), (render) -> {
-            return new ThrownItemRenderer<>(render, 0.75F, true);
-        });
         EntityRenderers.register(AMEntityRegistry.SHOEBILL.get(), RenderShoebill::new);
         EntityRenderers.register(AMEntityRegistry.ELEPHANT.get(), RenderElephant::new);
         EntityRenderers.register(AMEntityRegistry.SOUL_VULTURE.get(), RenderSoulVulture::new);
@@ -162,7 +152,6 @@ public class ClientProxy extends CommonProxy {
         EntityRenderers.register(AMEntityRegistry.GUSTER.get(), RenderGuster::new);
         EntityRenderers.register(AMEntityRegistry.SAND_SHOT.get(), RenderSandShot::new);
         EntityRenderers.register(AMEntityRegistry.GUST.get(), RenderGust::new);
-        EntityRenderers.register(AMEntityRegistry.WARPED_MOSCO.get(), RenderWarpedMosco::new);
         EntityRenderers.register(AMEntityRegistry.HEMOLYMPH.get(), RenderHemolymph::new);
         EntityRenderers.register(AMEntityRegistry.STRADDLER.get(), RenderStraddler::new);
         EntityRenderers.register(AMEntityRegistry.STRADPOLE.get(), RenderStradpole::new);
@@ -177,14 +166,12 @@ public class ClientProxy extends CommonProxy {
         EntityRenderers.register(AMEntityRegistry.KANGAROO.get(), RenderKangaroo::new);
         EntityRenderers.register(AMEntityRegistry.CACHALOT_WHALE.get(), RenderCachalotWhale::new);
         EntityRenderers.register(AMEntityRegistry.CACHALOT_ECHO.get(), RenderCachalotEcho::new);
-        EntityRenderers.register(AMEntityRegistry.LEAFCUTTER_ANT.get(), RenderLeafcutterAnt::new);
         EntityRenderers.register(AMEntityRegistry.ENDERIOPHAGE.get(), RenderEnderiophage::new);
         EntityRenderers.register(AMEntityRegistry.ENDERIOPHAGE_ROCKET.get(), (render) -> {
             return new ThrownItemRenderer<>(render, 0.75F, true);
         });
         EntityRenderers.register(AMEntityRegistry.BALD_EAGLE.get(), RenderBaldEagle::new);
         EntityRenderers.register(AMEntityRegistry.TIGER.get(), RenderTiger::new);
-        EntityRenderers.register(AMEntityRegistry.TARANTULA_HAWK.get(), RenderTarantulaHawk::new);
         EntityRenderers.register(AMEntityRegistry.VOID_WORM.get(), RenderVoidWormHead::new);
         EntityRenderers.register(AMEntityRegistry.VOID_WORM_PART.get(), RenderVoidWormBody::new);
         EntityRenderers.register(AMEntityRegistry.VOID_WORM_SHOT.get(), RenderVoidWormShot::new);
@@ -202,7 +189,6 @@ public class ClientProxy extends CommonProxy {
         EntityRenderers.register(AMEntityRegistry.ANACONDA.get(), RenderAnaconda::new);
         EntityRenderers.register(AMEntityRegistry.ANACONDA_PART.get(), RenderAnacondaPart::new);
         EntityRenderers.register(AMEntityRegistry.VINE_LASSO.get(), RenderVineLasso::new);
-        EntityRenderers.register(AMEntityRegistry.ANTEATER.get(), RenderAnteater::new);
         EntityRenderers.register(AMEntityRegistry.ROCKY_ROLLER.get(), RenderRockyRoller::new);
         EntityRenderers.register(AMEntityRegistry.FLUTTER.get(), RenderFlutter::new);
         EntityRenderers.register(AMEntityRegistry.POLLEN_BALL.get(), RenderPollenBall::new);
@@ -213,7 +199,6 @@ public class ClientProxy extends CommonProxy {
         EntityRenderers.register(AMEntityRegistry.COSMIC_COD.get(), RenderCosmicCod::new);
         EntityRenderers.register(AMEntityRegistry.BUNFUNGUS.get(), RenderBunfungus::new);
         EntityRenderers.register(AMEntityRegistry.BISON.get(), RenderBison::new);
-        EntityRenderers.register(AMEntityRegistry.GIANT_SQUID.get(), RenderGiantSquid::new);
         EntityRenderers.register(AMEntityRegistry.SQUID_GRAPPLE.get(), RenderSquidGrapple::new);
         EntityRenderers.register(AMEntityRegistry.SEA_BEAR.get(), RenderSeaBear::new);
         EntityRenderers.register(AMEntityRegistry.DEVILS_HOLE_PUPFISH.get(), RenderDevilsHolePupfish::new);
@@ -229,15 +214,10 @@ public class ClientProxy extends CommonProxy {
         EntityRenderers.register(AMEntityRegistry.FARSEER.get(), RenderFarseer::new);
         EntityRenderers.register(AMEntityRegistry.SKREECHER.get(), RenderSkreecher::new);
         EntityRenderers.register(AMEntityRegistry.UNDERMINER.get(), RenderUnderminer::new);
-        EntityRenderers.register(AMEntityRegistry.MURMUR.get(), RenderMurmurBody::new);
         EntityRenderers.register(AMEntityRegistry.MURMUR_HEAD.get(), RenderMurmurHead::new);
         EntityRenderers.register(AMEntityRegistry.TENDON_SEGMENT.get(), RenderTendonSegment::new);
-        EntityRenderers.register(AMEntityRegistry.SKUNK.get(), RenderSkunk::new);
-        EntityRenderers.register(AMEntityRegistry.FART.get(), RenderFart::new);
-        EntityRenderers.register(AMEntityRegistry.BANANA_SLUG.get(), RenderBananaSlug::new);
         EntityRenderers.register(AMEntityRegistry.BLUE_JAY.get(), RenderBlueJay::new);
         EntityRenderers.register(AMEntityRegistry.CAIMAN.get(), RenderCaiman::new);
-        EntityRenderers.register(AMEntityRegistry.TRIOPS.get(), RenderTriops::new);
         try {
             ItemProperties.register(AMItemRegistry.BLOOD_SPRAYER.get(), ResourceLocation.parse("empty"), (stack, p_239428_1_, p_239428_2_, j) -> {
                 return !ItemBloodSprayer.isUsable(stack) || p_239428_2_ instanceof Player && ((Player) p_239428_2_).getCooldowns().isOnCooldown(AMItemRegistry.BLOOD_SPRAYER.get()) ? 1.0F : 0.0F;

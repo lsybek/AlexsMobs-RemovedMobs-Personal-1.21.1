@@ -9,6 +9,4 @@ Os Saltadores-do-Lodo estão tão à vontade em terra quanto na água.
 Um  Saltador-do-Lodo pode ser domado alimentando-o com várias caudas de lagostas.
 Os  Saltadores-do-Lodo domesticados podem ficar, seguir ou vagar.
 Quando seu dono é ameaçado, um Saltador-do-Lodo cuspirá uma bola de lama de sua boca em seu oponente, o que inflige lentidão e causa algum dano.
-Os Saltadores-do-Lodo também podem atacar em combate.
-<NEWLINE>
-Eles podem ser procriados com qualquer larva de insetos ou caudas de lagostas.
+Os Saltadores-do-Lodo também podem atacar em combate.Podem ser reproduzidos com carne podre, creme de magma, favo de mel ou cauda de lagosta.

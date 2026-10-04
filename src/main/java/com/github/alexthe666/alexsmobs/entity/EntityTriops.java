@@ -272,7 +272,7 @@ public class EntityTriops extends WaterAnimal implements ITargetsDroppedItems, B
 
     @Override
     public boolean canTargetItem(ItemStack stack) {
-        return (stack.is(AMTagRegistry.TRIOPS_BREEDABLES) || stack.is(AMItemRegistry.MOSQUITO_LARVA.get())) && !fedCarrot;
+        return stack.is(AMTagRegistry.TRIOPS_BREEDABLES) && !fedCarrot;
     }
 
     @Override

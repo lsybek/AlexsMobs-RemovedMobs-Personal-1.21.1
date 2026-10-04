@@ -89,7 +89,8 @@ sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 dependencies {
     implementation "net.neoforged:neoforge:21.1.203"
-    implementation 'com.github.alexthe666.citadel:citadel-1.21.1:2.7.0'
+    implementation fileTree(dir: 'libs', include: ['*.jar']) // local citadel
+    // implementation 'com.github.alexthe666.citadel:citadel-1.21.1:2.7.0' // disabled
 
     compileOnly "mezz.jei:jei-${jei_mc_version}-common-api:${jei_version}"
     compileOnly "mezz.jei:jei-${jei_mc_version}-neoforge-api:${jei_version}"
@@ -139,14 +140,14 @@ task deploy {
     dependsOn tasks.named('jar')
     
     doLast {
-    def modsDir = file('D:/instances/NeoForge 1.21.1/minecraft/mods')
+    def modsDir = file('mods')
 
         if (!modsDir.exists()) {
             logger.warn("deploy: target mods directory does not exist: ${modsDir}")
             return
         }
 
-        // Delete ALL old cobblemon_home jars from the target mods folder (any version)
+        // Delete old alexsmobs jars from the target mods folder
         modsDir.listFiles().each { f ->
             try {
                 if (f.name.contains('alexsmobs') && f.name.endsWith('.jar')) {
@@ -184,7 +185,7 @@ tasks.named('clean') {
     }
 }
 
-// Automatically run deploy after a successful build
-tasks.named('build') {
-    finalizedBy deploy
-}
+// Automatically run deploy after a successful build - disabled on mac
+// tasks.named('build') {
+//     // // // // // // // // finalizedBy deploy
+// }

@@ -5,7 +5,7 @@ Kapuçin Maymunları ormanlara özgü küçük primatlardır. Gruplarına bağl�
 Evcilleştirilmiş Kapuçinler, kurtlar gibi diğer evcilleştirilmiş yaratıklardan daha karmaşıktır, hem menzilli hem de yakın dövüş saldırılarını kullanabilmenin yanı sıra takip edebilir, kalabilir ve dolaşabilir.
 Ayrıca sahibinin omzuna da bindirilebilir ve buradan hedeflere taş atarak saldırabilirler.
 <NEWLINE>
-Kapuçinler çeşitli başka nesnelerle de beslenebilir. Onları iyileştirmek için yumurta verilebilir ve en sevdikleri yiyeceklerden biri olan kurtçuklarla beslenebilirler.
+Kapuçinler çeşitli başka nesnelerle de beslenebilir. Onları iyileştirmek için yumurta verilebilir ve en sevdikleri yiyeceklerden biri olan çürük et, magma kremi veya petek ile beslenebilirler.
 Zaman zaman muz yerken muz kabuğu düşürebilirler. Bu muz kabukları, şeflerin "Uma Delicia" olarak tanımladığı "Sopa De Macaco" adlı eşsiz bir yemek oluşturmak için kullanılabilir.
 <NEWLINE>
 Nadiren, Orman Tapınaklarındaki sandıklarda Kadim Dart olarak bilinen bir obje bulunabilir. Bu dartları Kapuçin Maymunları'na vermek, onlara delici ile yükseltilmiş bir menzilli saldırı sağlar.

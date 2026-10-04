@@ -3,7 +3,7 @@
 <NEWLINE>
 Il verme del void è un'antica creatura che risiede nel void al di sotto dell'end.
 Si pensa che questi vermi siano una specie di parassita interdimensionale, a causa della loro abilità innata di creare tunnel nel tessuto della realtà.
-Questo boss può essere adescato lanciando un verme misterioso nel void dell'end. Esso può essere ottenuto inserendo una larva di zanzara cremisi all'interno del capside di un enderiofago.
+Questo boss può essere adescato lanciando un verme misterioso nel void dell'end. Esso può essere ottenuto inserendo una carne marcia, crema di magma o favo di zanzara cremisi all'interno del capside di un enderiofago.
 <NEWLINE>
 Il verme del void possiede diversi attacchi devastanti. Per prima cosa, può sparare dalla sua bocca fino a quattro cristalli a ricerca per volta, che cercheranno qualsiasi preda nelle vicinanze per infliggere danno alto. Poi, il verme cercherà di mordere tutto ciò che finisca nella sua strada. In fine, il verme può aprire un portale dal nulla per raggiungere ogni preda nascosta.
 Mentre si cerca di sconfiggere questa bestia, bisogna accertarsi di infliggere danno significativo soltanto alla testa. Se un segmento del corpo è molto danneggiato, smetterà di brillare, e se distrutto l'intero verme si dividerà in due. Questi vermi separati avranno metà della vita e si muoveranno un po' più lentamente, ma infliggeranno comunque molto danno. Se non fai attenzione, potresti ritrovarti sommerso dai vermi.
@@ -13,3 +13,5 @@ L'occhio può essere utilizzato con le mandibole e della netherite per creare un
 <NEWLINE>
 <NEWLINE>
 Differentemente da altri picconi, il distorsore dimensionale non è utilizzato per distruggere blocchi, bensì la realtà in sé. Utilizzando questo utensile ovunque, potrai aprire un portale verso il tuo punto di generazione. Dall'altro lato, verrà aperto anche un portale temporaneo per il ritorno per solo un minuto. Dovresti assicurarti di non abusare di questo utensile, poiché possiede soltanto 20 utilizzi.
+<NEWLINE>
+Questo boss può essere attirato dal vuoto lanciando un occhio di Ender nel vuoto dell'End.

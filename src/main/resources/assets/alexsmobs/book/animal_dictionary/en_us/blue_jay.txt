@@ -10,4 +10,4 @@ Feeding a Blue jay Glow Berries again can make it leave its old friend.
 <NEWLINE>
 Blue Jays are also known for alerting other forest denizens of nearby predators. If fed any type of seed, the Blue Jay will chirp a short song that can reveal the location of all nearby monsters. This can be useful for finding hidden caves or structures nearby.
 <NEWLINE>
-Blue Jays can be bred with maggots or other insect larvae.
+Blue Jays can be bred with insect items such as rotten flesh, magma cream, or honeycomb.

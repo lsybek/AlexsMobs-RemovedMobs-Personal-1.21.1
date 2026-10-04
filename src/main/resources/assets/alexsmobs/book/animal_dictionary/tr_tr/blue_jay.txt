@@ -10,4 +10,4 @@ Bir Mavi Alakarga'yı tekrar Parlayan Meyveler ile beslemek eski dostunu terk et
 <NEWLINE>
 Mavi Alakargalar ayrıca diğer orman sakinlerini yakındaki yırtıcılara karşı uyarmalarıyla da bilinir. Herhangi bir tohumla beslenirse, Mavi Alakarga yakındaki tüm canavarların yerini gösterebilecek kısa bir şarkı söyleyecektir. Bu, yakınlardaki gizli mağaraları veya yapıları bulmak için yararlı olabilir.
 <NEWLINE>
-Mavi Alakargalar kurtçuklar veya diğer böcek larvaları ile çiftleştirilebilir.
+Mavi Alakargalar çürük et, magma kremi veya petek ile çiftleştirilebilir.

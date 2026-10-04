@@ -23,3 +23,6 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+
+# local dependency jars (place citadel jar here, not tracked)
+libs/

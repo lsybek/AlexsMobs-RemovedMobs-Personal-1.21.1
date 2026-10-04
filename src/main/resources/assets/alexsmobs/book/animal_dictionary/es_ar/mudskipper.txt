@@ -11,4 +11,4 @@ Se puede hacer que los peces del fango domesticados esperen, sigan o deambulen.
 También se pueden recoger con un balde de agua.
 Cuando su dueño se ve amenazado, un pez del fango escupe una bola de barro de su boca a su oponente, que inflige lentitud y algo de daño.
 <NEWLINE>
-Se pueden criar con cualquier larva de insecto o también con colas de langosta.
+Se pueden criar con carne podrida, crema de magma o panal o también con colas de langosta.

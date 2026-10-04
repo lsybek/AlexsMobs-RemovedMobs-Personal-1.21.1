@@ -11,4 +11,4 @@ Cá thòi lòi đã thuần hóa có thể được ra lệnh đứng im, đi th
 Khi chủ nhân của nó bị đe dọa, Cá thòi lòi sẽ phun ra một quả bóng bùn từ miệng vào đối thủ, gây ra sự chậm chạp và gây một số sát thương.
 Cá thòi lòi cũng có thể vừa di chuyển vừa bắn.
 <NEWLINE>
-Chúng có thể được phối giống bằng bất kỳ ấu trùng côn trùng nào hoặc Đuôi tôm hùm.
+Chúng có thể được phối giống bằng bất kỳ thịt thối, kem magma hoặc tổ ong côn trùng nào hoặc Đuôi tôm hùm.

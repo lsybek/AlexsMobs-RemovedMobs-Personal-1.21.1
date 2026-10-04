@@ -1,26 +1,32 @@
 {
-    "display": {
-        "icon": {
-            "id": "alexsmobs:tab_icon"
+  "display": {
+    "icon": {
+      "id": "alexsmobs:rainbow_jelly"
     },
-        "title": {
-            "translate": "advancements.alexsmobs.rainbow_jelly.title"
-        },
-        "description": {
-            "translate": "advancements.alexsmobs.rainbow_jelly.desc"
-        }
+    "title": {
+      "translate": "advancements.alexsmobs.rainbow_jelly.title"
     },
-    "parent": "alexsmobs:alexsmobs/root",
-    "criteria": {
-        "gustmaker": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "items": ["alexsmobs:rainbow_jelly"]
-                    }
-                ]
-            }
-        }
+    "description": {
+      "translate": "advancements.alexsmobs.rainbow_jelly.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "alexsmobs:alexsmobs/root",
+  "criteria": {
+    "gustmaker": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alexsmobs:rainbow_jelly"
+            ]
+          }
+        ]
+      }
     }
+  }
 }

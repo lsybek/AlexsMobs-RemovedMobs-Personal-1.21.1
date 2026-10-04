@@ -11,4 +11,4 @@ Tamed Mudskippers can be made to stay, follow or wander.
 When its owner is threatened, a Mudskipper will spit a ball of mud from its mouth at its opponent, which inflicts slowness and deals some damage.
 Mudskippers can also strafe in combat.
 <NEWLINE>
-They can be bred with any insect larva or Lobster Tails.
+They can be bred with insect items such as rotten flesh, magma cream, or honeycomb or Lobster Tails.

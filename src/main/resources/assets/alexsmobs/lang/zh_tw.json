@@ -62,7 +62,7 @@
   "item.alexsmobs.centipede_leg": "洞穴蜈蚣腿",
   "item.alexsmobs.centipede_leggings": "洞穴蜈蚣護腿",
   "item.alexsmobs.centipede_leggings.desc": "能夠爬牆",
-  "item.alexsmobs.mosquito_larva": "緋紅孑孓",
+  "item.alexsmobs.mosquito_larva": "Magma Cream",
   "item.alexsmobs.moose_antler": "駝鹿角",
   "item.alexsmobs.moose_headgear": "駝鹿角頭飾",
   "item.alexsmobs.mimicream": "Mimicream",
@@ -262,5 +262,11 @@
   "block.minecraft.banner.bear.brown": "棕色熊",
   "block.minecraft.banner.bear.green": "綠色熊",
   "block.minecraft.banner.bear.red": "紅色熊",
-  "block.minecraft.banner.bear.black": "黑色熊"
+  "block.minecraft.banner.bear.black": "黑色熊",
+  "advancements.alexsmobs.tame_warped_toad.desc": "Tame a Warped Toad with magma cream",
+  "advancements.alexsmobs.mysterious_worm.desc": "Place an Ender Pearl into an Enderiophage's Capsid to obtain a Mysterious Worm",
+  "advancements.alexsmobs.stradpole_feed.desc": "Feed a Stradpole magma cream to grow it into a Straddler",
+  "advancements.alexsmobs.void_worm_summon.desc": "Summon the Void Worm in the End by tossing an Ender Eye into the void",
+  "advancements.alexsmobs.crimson_mosquito_larva.desc": "Obtain magma cream",
+  "alexsmobs.sound.subtitle.mosquito_capsid_convert": "Item placed in Capsid"
 }

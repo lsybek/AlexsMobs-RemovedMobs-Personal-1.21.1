@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "alexsmobs:leafcutter_ant_pupa",
+          "name": "minecraft:honeycomb",
           "weight": 1,
           "functions": [
             {

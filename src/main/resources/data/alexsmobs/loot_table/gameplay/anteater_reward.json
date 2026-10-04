@@ -33,7 +33,7 @@
           "weight": 5,
           "functions": [
           ],
-          "name": "alexsmobs:leafcutter_ant_pupa"
+          "name": "minecraft:honeycomb"
         },
         {
           "type": "minecraft:item",
@@ -47,7 +47,7 @@
           "weight": 2,
           "functions": [
           ],
-          "name": "alexsmobs:maggot"
+          "name": "minecraft:rotten_flesh"
         },
         {
           "type": "minecraft:item",

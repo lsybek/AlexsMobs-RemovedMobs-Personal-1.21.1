@@ -1,7 +1,12 @@
 {
   "display": {
     "icon": {
-      "id": "alexsmobs:tab_icon"
+      "id": "alexsmobs:tab_icon",
+      "components": {
+        "alexsmobs:tab_icon_display": {
+          "display_entity_type": "alexsmobs:laviathan"
+        }
+      }
     },
     "title": {
       "translate": "advancements.alexsmobs.laviathan_four_passengers.title"

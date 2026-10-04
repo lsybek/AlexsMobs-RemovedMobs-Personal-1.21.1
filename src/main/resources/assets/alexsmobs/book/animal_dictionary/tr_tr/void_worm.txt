@@ -13,3 +13,5 @@ Göz, mandibulalar ve biraz netherit ile birlikte kullanılarak büyülü bir ka
 <NEWLINE>
 <NEWLINE>
 Diğer kazmaların aksine, Boyutsal Oyucu blokları kırmak için değil, gerçekliğin kendisini kırmak için kullanılır. Aleti herhangi bir yerde kullanarak, kişi doğduğu yere geri dönmek için bir portal açabilir. Diğer tarafta, sadece bir dakikalığına geçici bir dönüş portalı da açılacaktır. Sadece 20 kullanımı olduğu için bu aracı aşırı kullanmamaya dikkat etmelisiniz.
+<NEWLINE>
+Bu boss, Ender Gözü'nü End boşluğuna atarak cezbedilebilir.

@@ -9,9 +9,10 @@
     "description": {
       "translate": "advancements.alexsmobs.void_worm_summon.desc"
     },
-    "frame": "goal"
+    "frame": "goal",
+    "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
   },
-  "parent": "alexsmobs:alexsmobs/mysterious_worm",
+  "parent": "alexsmobs:alexsmobs/root",
   "criteria": {
     "ex": {
       "trigger": "alexsmobs:void_worm_summon"

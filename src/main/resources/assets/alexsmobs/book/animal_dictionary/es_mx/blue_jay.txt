@@ -10,4 +10,4 @@ Alimentar nuevamente a un azulejo con bayas brillantes hará que se separe de su
 <NEWLINE>
 Los azulejos también son conocidos por alertar a otros habitantes del bosque sobre los depredadores cercanos. Si se le alimenta con cualquier tipo de semilla, el azulejo emitirá una canción corta que puede revelar la ubicación de todos los monstruos cercanos. Esto puede resultar útil para encontrar cuevas o estructuras ocultas cercanas.
 <NEWLINE>
-Los azulejos se pueden criar con gusanos o con otras larvas de insectos.
+Los azulejos se pueden criar con carne podrida, crema de magma o panal.

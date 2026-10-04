@@ -11,4 +11,4 @@ Ai saltafango addomesticati puoi dire di stare fermi, seguire o vagare.
 Quando il suo proprietario è in pericolo, il saltafango sputerà una palla di fango dalla sua bocca al nemico, che infligge lentezza e fa un po' di danno.
 I saltafango possono muoversi lateralmente nel combattimento.
 <NEWLINE>
-Possono essere fatti accoppiare con qualsiasi larva di insetto o code di aragosta.
+Possono essere fatti accoppiare con carne marcia, crema di magma o favo o code di aragosta.

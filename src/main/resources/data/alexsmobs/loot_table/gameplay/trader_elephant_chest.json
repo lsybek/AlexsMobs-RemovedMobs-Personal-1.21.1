@@ -94,7 +94,7 @@
         },
         {
           "type": "item",
-          "name": "alexsmobs:mosquito_larva",
+          "name": "minecraft:slime_ball",
           "weight": 11
         },
         {
@@ -119,7 +119,7 @@
         },
         {
           "type": "item",
-          "name": "alexsmobs:maggot",
+          "name": "minecraft:rotten_flesh",
           "functions": [
             {
               "function": "set_count",

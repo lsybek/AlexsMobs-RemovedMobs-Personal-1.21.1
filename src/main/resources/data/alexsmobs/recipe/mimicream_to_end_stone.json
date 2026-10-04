@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CMC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "M": {
+      "item": "alexsmobs:mimicream"
+    }
+  },
+  "result": {
+    "id": "minecraft:end_stone",
+    "count": 32
+  }
+}

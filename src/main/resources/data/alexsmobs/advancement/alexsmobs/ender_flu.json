@@ -1,8 +1,12 @@
 {
   "display": {
     "icon": {
-      "id": "citadel:effect_item",
-      "nbt": "{DisplayEffect:\"alexsmobs:ender_flu\"}"
+      "id": "alexsmobs:tab_icon",
+      "components": {
+        "alexsmobs:tab_icon_display": {
+          "display_entity_type": "alexsmobs:enderiophage"
+        }
+      }
     },
     "title": {
       "translate": "advancements.alexsmobs.ender_flu.title"
