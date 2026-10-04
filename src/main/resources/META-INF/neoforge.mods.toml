@@ -1,7 +1,7 @@
 modLoader="javafml"
 loaderVersion="[4,)"
 license="GPL-3.0"
-issueTrackerURL="https://github.com/Alex-the-666/AlexsMobs/issues"
+issueTrackerURL="https://github.com/lsybek/AlexsMobs-RemovedMobs-Personal-1.21.1/issues"
 
 [[mods]]
 modId="alexsmobs"
